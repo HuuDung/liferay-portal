@@ -1,3 +1,0 @@
-dependencies {
-	compileInclude group: "com.liferay", name: "javax.ccpp", version: "1.0.JAKARTA-LIFERAY-PATCHED-1"
-}

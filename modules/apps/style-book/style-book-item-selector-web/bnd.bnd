@@ -1,4 +1,0 @@
-Bundle-Name: Liferay Style Book Item Selector Web
-Bundle-SymbolicName: com.liferay.style.book.item.selector.web
-Bundle-Version: 1.0.3
-Web-ContextPath: /style-book-item-selector-web

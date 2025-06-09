@@ -1,1 +1,0 @@
-create table Configuration_ (configurationId VARCHAR(512) not null primary key, dictionary TEXT);

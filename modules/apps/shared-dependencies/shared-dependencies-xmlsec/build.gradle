@@ -1,3 +1,0 @@
-dependencies {
-	compileInclude group: "org.apache.santuario", name: "xmlsec", version: "3.0.3"
-}

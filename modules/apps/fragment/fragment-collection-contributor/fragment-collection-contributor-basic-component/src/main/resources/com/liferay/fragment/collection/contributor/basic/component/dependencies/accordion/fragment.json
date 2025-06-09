@@ -1,8 +1,0 @@
-{
-	"cacheable": true,
-	"fragmentEntryKey": "accordion",
-	"icon": "dropdown",
-	"name": "accordion",
-	"thumbnail": "dropdown.png",
-	"type": "component"
-}
