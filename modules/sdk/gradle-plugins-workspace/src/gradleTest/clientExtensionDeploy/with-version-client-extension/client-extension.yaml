@@ -1,5 +1,0 @@
-with-version-instance-settings:
-    foo: bar
-    name: With Version Instance Settings Client Extension
-    pid: with-version-pid
-    type: instanceSettings

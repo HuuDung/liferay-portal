@@ -1,5 +1,0 @@
-ext.expectedContentStrings = ['    ":configurator:policy": "force"', '    "buildTimestamp": ']
-ext.expectedFilePath = "site-initializer.client-extension-config.json"
-ext.taskPath = ":site-initializer:createClientExtensionConfig"
-
-apply from: project.property("commonScript.testClientExtensionBuildFileContentsTestCase.gradle")

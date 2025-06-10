@@ -1,9 +1,0 @@
-assemble:
-    -   into: static
-do-not-expand-urls-client-extension:
-    doNotExpand:
-        -   "*.txt"
-    name: Bar Client Extension
-    pid: com.liferay.bar.configuration.BarConfiguration
-    securityMode: domain
-    type: instanceSettings

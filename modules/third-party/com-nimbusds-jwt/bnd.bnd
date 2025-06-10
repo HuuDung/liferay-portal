@@ -1,3 +1,0 @@
-Bundle-SymbolicName: com.nimbusds.jwt
-Bundle-Version: 9.40.LIFERAY-PATCHED-1
--fixupmessages: Classes found in the wrong directory: ...;is:=ignore

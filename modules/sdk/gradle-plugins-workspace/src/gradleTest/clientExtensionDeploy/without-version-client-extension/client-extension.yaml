@@ -1,5 +1,0 @@
-without-version-instance-settings:
-    foo: bar
-    name: Without Version Instance Settings Client Extension
-    pid: without-version-pid
-    type: instanceSettings

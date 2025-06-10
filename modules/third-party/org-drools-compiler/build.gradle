@@ -1,5 +1,0 @@
-apply from: "../../build-jakarta-transformer.gradle"
-
-dependencies {
-	compileOnly group: "org.drools", name: "drools-compiler", transitive: false, version: "5.4.0.Final"
-}

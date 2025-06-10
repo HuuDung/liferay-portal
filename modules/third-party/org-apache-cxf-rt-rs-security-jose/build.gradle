@@ -1,5 +1,0 @@
-apply from: "../../build-jakarta-transformer.gradle"
-
-dependencies {
-	compileOnly group: "org.apache.cxf", name: "cxf-rt-rs-security-jose", transitive: false, version: "3.5.11"
-}

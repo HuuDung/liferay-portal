@@ -1,3 +1,0 @@
-with-invalid-scope-global-css-client-extension:
-    scope: foo
-    type: globalCSS
